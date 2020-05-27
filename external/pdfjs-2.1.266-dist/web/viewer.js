@@ -13845,7 +13845,7 @@ function getDefaultPreferences() {
       "enablePrintAutoRotate": false,
       "disablePageLabels": false,
       "historyUpdateUrl": false,
-      "scrollModeOnLoad": -1,
+      "scrollModeOnLoad": 3,
       "spreadModeOnLoad": -1
     });
   }
